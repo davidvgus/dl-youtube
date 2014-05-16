@@ -2,5 +2,5 @@
 youtubedown.sh is used to download the sound from a youtube vid.  Just give it the url.
 
 The below is the command to change from the downloaded file to wav.
-ffmpeg -i {name of file} umbrella.wav
+ffmpeg -i {input file} { output file }
 
