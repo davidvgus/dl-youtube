@@ -4,3 +4,5 @@ youtubedown.sh is used to download the sound from a youtube vid.  Just give it t
 The below is the command to change from the downloaded file to wav.
 ffmpeg -i {input file} { output file }
 
+Depends upon: http://rg3.github.io/youtube-dl/
+
